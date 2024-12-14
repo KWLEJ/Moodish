@@ -2,7 +2,7 @@
 
 1. Project Overview
 
--MOODISH is a customized application that recommends the best cooking recipes and related YouTube cooking videos based on emotions. In modern life, food is not just a means of survival, but also plays an important role in stress management and emotional transformation. However, since existing cooking recommendation systems do not consider the user's emotional state, we wanted to create an application that can provide better service by differentiating from that point.
+	MOODISH is a customized application that recommends the best cooking recipes and related YouTube cooking videos based on emotions. In modern life, food is not just a means of survival, but also plays an important role in stress management and emotional transformation. However, since existing cooking recommendation systems do not consider the user's emotional state, we wanted to create an application that can provide better service by differentiating from that point.
 
 -MOODISH recommends the best cooking using AI technology (recommendation system) when the user inputs information such as ingredients in the refrigerator, mood, cooking time, and cooking utensils. In particular, it is designed to analyze the user's emotions using FER and suggest foods that match them, allowing them to manage their emotions through cooking.
 
